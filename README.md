@@ -1,16 +1,10 @@
 # Beer you,
 
-Single page application where clients can search for favorite beers or breweries and can add or delete their favorite beers.
-
-![alt text](https://s3-us-west-1.amazonaws.com/realyon/Screen+Shot+2018-12-10+at+8.27.03+PM.png)
+Single page application for practicing using SCSS! Components are divided into react components instead of single html file.
 
 ## Getting Started
 
 Follow the steps below to run the server!
-
-### Important note
-
-BreweryDB API is not shared in this repository. Will require API key to successfully run the application.
 
 ### Installing
 
@@ -30,6 +24,6 @@ npm run server-dev
 
 After running the nodemon, go to http://localhost:3000 to see working application!
 
-## Built With
+## Credit
 
-- [BreweryDB API](https://www.brewerydb.com/) - The API used for beers & breweries information
+- [Jonas Schmedtmann](https://www.udemy.com/advanced-css-and-sass/) 
