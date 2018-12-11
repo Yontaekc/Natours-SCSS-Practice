@@ -1,4 +1,4 @@
-# Beer you,
+# Natours
 
 Single page application for practicing using SCSS! Components are divided into react components instead of single html file.
 
